@@ -17,6 +17,7 @@
         <module>configserver</module>
         <module>configtest</module>
         <module>gateway</module>
+        <module>eurekaserver</module>
     </modules>
 
     <properties>
